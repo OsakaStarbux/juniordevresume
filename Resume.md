@@ -1,23 +1,15 @@
 Kevin Bradley
----------------
+=============
 
 WEB DEVELOPMENT PROJECTS
 ---------------
-Personal Portfolio
-HTML, CSS
-https://codepen.io/KevinBradley/full/yLYoGqW
+[Personal Portfolio: HTML, CSS](https://codepen.io/KevinBradley/full/yLYoGqW)
 
-Calculator App
-React, Redux
-https://codepen.io/KevinBradley/full/dyyYwpM
+[Calculator App: React, Redux](https://codepen.io/KevinBradley/full/dyyYwpM)
 
-Global Temperature Heat Map
-D3
-https://codepen.io/KevinBradley/full/qBOrOKR
+[Global Temperature Heat Map: D3](https://codepen.io/KevinBradley/full/qBOrOKR)
 
-Finite State Machine: Ant Brain
-p5js
-https://codepen.io/KevinBradley/pen/MzmGmX
+[Finite State Machine: Ant Brain: p5js](https://codepen.io/KevinBradley/pen/MzmGmX)
 
 
 WEB DEVELOPMENT SKILLS
@@ -29,35 +21,29 @@ WEB DEVELOPMENT SKILLS
 * Node.js
 
 COURSES AND CERTIFICATIONS
----------------
-UBCx How to Code: Simple Data
+--------------------------
+[UBCx How to Code: Simple Data](https://courses.edx.org/certificates/9e7c770a78ff45cea008b2db58fadbd3)
 Introductory Computer Science course. Systematic program design. Functional programming.
-https://courses.edx.org/certificates/9e7c770a78ff45cea008b2db58fadbd3
 
-Free Code Camp Responsive Web Design Certification
-https://www.freecodecamp.org/certification/osakastarbux/responsive-web-design
+[Free Code Camp Responsive Web Design Certification](https://www.freecodecamp.org/certification/osakastarbux/responsive-web-design)
 
-Free Code Camp Javascript Algorithms and Data Structures Certification
-https://www.freecodecamp.org/certification/osakastarbux/javascript-algorithms-and-data-structures
+[Free Code Camp Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/osakastarbux/javascript-algorithms-and-data-structures)
 
-Free Code Camp Front End Libraries Certification
-https://www.freecodecamp.org/certification/osakastarbux/front-end-libraries
+[Free Code Camp Front End Libraries Certification](https://www.freecodecamp.org/certification/osakastarbux/front-end-libraries)
 
-Free Code Camp Data Visualization Certification
-https://www.freecodecamp.org/certification/osakastarbux/data-visualization
+[Free Code Camp Data Visualization Certification](https://www.freecodecamp.org/certification/osakastarbux/data-visualization)
 
-Free Code Camp APIs and Microservices Certification
-https://www.freecodecamp.org/certification/osakastarbux/apis-and-microservices
+[Free Code Camp APIs and Microservices Certification](https://www.freecodecamp.org/certification/osakastarbux/apis-and-microservices)
 
 Japanese Language Proficiency Test level N2
 
 AWARDS AND ACHIEVEMENTS
----------------
-Winner of the Worked Problem Video Contest, UBCx How to Code: Simple Data
-https://kevbradley.com/learning/2018/01/26/worked-problem-video-contest.html
+-----------------------
+[Winner of the Worked Problem Video Contest, UBCx How to Code: Simple Data](https://kevbradley.com/learning/2018/01/26/worked-problem-video-contest.html)
+
 
 COMMUNITY
-=========
+---------
 I run a monthly meet-up for programmers in my area called [Osaka Coffee and Coding](https://www.meetup.com/Osaka-Coffee-and-Coding/). The meet-up is open and welcoming to anyone with any level of experience. 
 
 EXPERIENCE
@@ -98,7 +84,7 @@ ADMINISTRATION
 **Clerical Assistant: Clinical trials**, *Sanofi-Aventis Australia.* May 2006 – June 2006
 
 EDUCATION
-=========
+---------
  - Edge Hill University, Ormskirk, England — B.A. English
  - University of Warwick, Coventry, England — M.A. English Literature
  - FreeCodeCamp, Online, Algorithms, responsive web design, and full-stack development
