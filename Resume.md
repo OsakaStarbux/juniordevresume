@@ -43,6 +43,12 @@ https://www.freecodecamp.org/certification/osakastarbux/javascript-algorithms-an
 Free Code Camp Front End Libraries Certification
 https://www.freecodecamp.org/certification/osakastarbux/front-end-libraries
 
+Free Code Camp Data Visualization Certification
+https://www.freecodecamp.org/certification/osakastarbux/data-visualization
+
+Free Code Camp APIs and Microservices Certification
+https://www.freecodecamp.org/certification/osakastarbux/apis-and-microservices
+
 Japanese Language Proficiency Test level N2
 
 AWARDS AND ACHIEVEMENTS
@@ -50,6 +56,9 @@ AWARDS AND ACHIEVEMENTS
 Winner of the Worked Problem Video Contest, UBCx How to Code: Simple Data
 https://kevbradley.com/learning/2018/01/26/worked-problem-video-contest.html
 
+COMMUNITY
+=========
+I run a monthly meet-up for programmers in my area called [Osaka Coffee and Coding](https://www.meetup.com/Osaka-Coffee-and-Coding/). The meet-up is open and welcoming to anyone with any level of experience. 
 
 EXPERIENCE
 ----------
@@ -68,24 +77,15 @@ CUSTOMER SUPPORT
 
 TEACHING
 
-**English Instructor**, *Nova.* January 2002 – April 2003
-
-**English Instructor**, *Aeon.* January 2008 – April 2011
-
-**English Instructor**, *Ivy / Aplis.* September 2011 – February 2012
-
-**English Instructor**, *HOS Culture School.* July, 2012 - June, 2013
-
-**English Instructor**, *Intersquare.* May 2012 – Feb 2013
-
-**English Instructor**, *Ivy / Aplis.* March 2013 – April 2016
-
-**English Instructor**, *Time English School.* June 2016 – Jan 2017
-
 **English Instructor**, *Apple Eikaiwa Center.* Feb 2017 – Present
 
   * Educated students in the basics of English grammar and conversational speaking.
   * Taught a curriculum to improve students' conversational abilities.
+
+***Previous Teaching Experience***
+
+Nova, Aeon, Ivy / Aplis, HOS Culture School, Intersquare,Time English School.
+
 
 ADMINISTRATION
 
@@ -104,6 +104,3 @@ EDUCATION
  - FreeCodeCamp, Online, Algorithms, responsive web design, and full-stack development
  - Edx UBCx How to Code: Simple Data, systematic program design 
 
-PERSONAL
-========
-I like cooking and baking bread, science fiction and popular science. I enjoy experimenting with new languages, libraries and frameworks. I also run a monthly meet-up for programmers in my area called [Osaka Coffee and Coding](https://www.meetup.com/Osaka-Coffee-and-Coding/)
