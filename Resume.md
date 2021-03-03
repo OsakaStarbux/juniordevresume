@@ -14,11 +14,11 @@ WEB DEVELOPMENT PROJECTS
 
 WEB DEVELOPMENT SKILLS
 ---------------
-* HTML
-* CSS
+* HTML5
+* CSS3
 * Javascript, React, Redux, D3
 * Git / GitHub
-* Node.js
+* Node.js / Express.js
 
 COURSES AND CERTIFICATIONS
 --------------------------
@@ -44,7 +44,7 @@ AWARDS AND ACHIEVEMENTS
 
 COMMUNITY
 ---------
-I run a monthly meet-up for programmers in my area called [Osaka Coffee and Coding](https://www.meetup.com/Osaka-Coffee-and-Coding/). The meet-up is open and welcoming to anyone with any level of experience. 
+I run a monthly meet-up for programmers in my area called Osaka Coffee and Coding. The meet-up is open and welcoming to anyone with any level of experience. 
 
 EXPERIENCE
 ----------
