@@ -3,6 +3,9 @@ Kevin Bradley
 
 WEB DEVELOPMENT PROJECTS
 ---------------
+
+[Pixel Empire: Python / Flask](https://kevinbradley.pythonanywhere.com/)
+
 [Personal Portfolio: HTML, CSS](https://codepen.io/KevinBradley/full/yLYoGqW)
 
 [Calculator App: React, Redux](https://codepen.io/KevinBradley/full/dyyYwpM)
@@ -11,12 +14,12 @@ WEB DEVELOPMENT PROJECTS
 
 [Finite State Machine: Ant Brain: p5js](https://codepen.io/KevinBradley/pen/MzmGmX)
 
-
 WEB DEVELOPMENT SKILLS
 ---------------
 * HTML5
 * CSS3
 * Javascript, React, Redux, D3
+* Python / Flask
 * Git / GitHub
 * Node.js / Express.js
 
