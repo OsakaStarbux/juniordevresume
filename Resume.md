@@ -51,6 +51,14 @@ I run a monthly meet-up for programmers in my area called Osaka Coffee and Codin
 
 EXPERIENCE
 ----------
+CURRENT ROLE
+
+**Programming Teacher**, *youcode.jp* / *helloworldikeda.com* Feb 2022 - Present
+
+  * Teaching programming to kids with Scratch and Python (Pygame Zero).
+  * Creating instructional materials for programming classes.
+
+
 CUSTOMER SUPPORT
 
 **Web Customer Support Officer, Online Help Desk**, *Elsevier Science.* July 2001 – December 2002
